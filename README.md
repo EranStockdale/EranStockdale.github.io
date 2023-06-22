@@ -22,4 +22,4 @@ Languages I can program in:
   
 And here's a pidgeon
 
-![pidgeon](image.png)
+![pidgeon](pidgeon.png)
