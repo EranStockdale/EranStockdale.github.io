@@ -19,6 +19,10 @@ Languages I can program in:
 - Bash Scripting
 - CMD Scripting
 - Rust (not very well though :P)
+
+Some of my work:
+- [PythagorasHorizonDemo](/PythagorasHorizonDemo) - Made this to demonstrate a better example for Pythagoras' Theorem to my Maths teacher (and for a friend, they suggested it)
+- more coming soon!
   
 And here's a pidgeon
 
