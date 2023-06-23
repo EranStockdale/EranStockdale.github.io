@@ -1,7 +1,7 @@
 # EranStockdale.github.io
 
 ### Hey there, I'm Eran!
-I like programming, a bit of gaming and pidgeons.
+I like programming, a bit of gaming and pigeons.
 
 Games I enjoy:
 - [Risk of Rain: 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
@@ -19,11 +19,12 @@ Languages I can program in:
 - Bash Scripting
 - CMD Scripting
 - Rust (not very well though :P)
+- ... and more!
 
 Some of my work:
 - [PythagorasHorizonDemo](/PythagorasHorizonDemo) - Made this to demonstrate a better example for Pythagoras' Theorem to my Maths teacher (and for a friend, they suggested it)
 - more coming soon!
   
-And here's a pidgeon
+And here's a pigeon
 
-![pidgeon](pidgeon.png)
+![pigeon](pigeon.png)
