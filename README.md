@@ -27,4 +27,4 @@ Some of my work:
   
 And here's a pigeon
 
-![pigeon](pigeon.png)
+![pigeon](pidgeon.png)
