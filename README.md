@@ -13,7 +13,7 @@ Games I enjoy:
 Languages I can program in:
 - Python
 - Java
-- Javascript
+- Javascript/Node.JS
 - HTML/CSS (if it counts lol)
 - C
 - Bash Scripting
