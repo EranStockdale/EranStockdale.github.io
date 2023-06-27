@@ -21,6 +21,11 @@ Languages I can program in:
 - Rust (not very well though :P)
 - ... and more!
 
+Software I use:
+- IntelliJ Idea - Java Development
+- VSCode - Everything else
+- opera GX - Browser
+
 Some of my work:
 - [PythagorasHorizonDemo](/PythagorasHorizonDemo) - Made this to demonstrate a better example for Pythagoras' Theorem to my Maths teacher (and for a friend, they suggested it)
 - more coming soon!
