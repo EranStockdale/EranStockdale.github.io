@@ -16,6 +16,7 @@ Languages I can program in:
 - Javascript/Node.JS
 - HTML/CSS (if it counts lol)
 - C
+- C#
 - Bash Scripting
 - CMD Scripting
 - Rust (not very well though :P)
@@ -23,8 +24,15 @@ Languages I can program in:
 
 Software I use:
 - IntelliJ Idea - Java Development
-- VSCode - Everything else
+- VSCode - Progrmaming in many languages
 - Opera GX - Browser
+- Discord - Communicating with friends and other programmers.
+- Telegram - Communicating with other people trying to custom flash Android
+- Unity - Game development / Math demostration creation (just started relearning it)
+- Spotify - Music
+- Steam - Gaming
+
+OSes I use (in order of amount used): Windows / Ubuntu / Arch linux / Debian
 
 Some of my work:
 - [PythagorasHorizonDemo](/PythagorasHorizonDemo) - Made this to demonstrate a better example for Pythagoras' Theorem to my Maths teacher (and for a friend, they suggested it)
