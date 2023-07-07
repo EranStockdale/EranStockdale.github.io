@@ -11,15 +11,16 @@ Games I enjoy:
 - [Terraria](https://store.steampowered.com/app/105600/Terraria/)
   
 Languages I can program in:
-- Python
+- [Python](https://www.python.org)
 - Java
-- Javascript/Node.JS
+- Javascript/[Node.JS](https://nodejs.org/en)
+- Typescript/[Deno](https://deno.land)
 - HTML/CSS (if it counts lol)
 - C
 - C#
 - Bash Scripting
 - CMD Scripting
-- Rust (not very well though :P)
+- [Rust](https://www.rust-lang.org) (not very well though :P)
 - ... and more!
 
 Software I use:
