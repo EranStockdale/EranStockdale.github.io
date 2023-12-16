@@ -42,3 +42,4 @@ Some of my work:
 And here's a pigeon
 
 ![pigeon](pidgeon.png)
+<a rel="me" href="https://mastodon.social/@EranStockdale">Mastodon</a>
