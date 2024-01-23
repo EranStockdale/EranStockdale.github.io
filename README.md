@@ -11,7 +11,7 @@ Languages I'm proficient in:
 - Javascript/[Node.JS](https://nodejs.org/en)
 - [Typescript](https://www.typescriptlang.org)/[Deno](https://deno.land)
 - [Python](https://www.python.org)
-- HTML/CSS (if it counts lol)
+- HTML/CSS (if it counts)
 - C#
 - Shell/Bash Scripting
 - Powershell Scripting
