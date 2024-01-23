@@ -1,5 +1,3 @@
-# eranstockdale.uk
-
 ### Hey there, I'm Eran!
 I like hawks, programming and some gaming. Hawks the most though!
 
@@ -20,10 +18,10 @@ Languages I'm proficient in:
 - ... and more that I *can* program in but that I'm not **proficient** in.
 
 Software I'm actively using:
-- [Neovim](https://neovim.io/) - C++ programming. I'm still learning this. Here's my [configuration](https://gitlab.com/EranStockdale/neovim-config).
-- [VSCode](https://code.visualstudio.com/) - General Programming
 - [Google Chrome](https://www.google.com/intl/en_uk/chrome/dr/download/) - Browser
 - [Discord](https://discord.com/) - Communicating with friends and other programmers.
+- [Neovim](https://neovim.io/) - C++ programming. I'm still learning this. Here's my [configuration](https://gitlab.com/EranStockdale/neovim-config).
+- [VSCode](https://code.visualstudio.com/) - General Programming
 - [Spotify](https://spotify.com/) - Music
 - [Steam](https://store.steampowered.com/) - Gaming
 
@@ -38,4 +36,4 @@ Some of my work:
 - [PythagorasHorizonDemo](/PythagorasHorizonDemo) - Made this to demonstrate a better example for Pythagoras' Theorem to my Maths teacher (and for a friend, they suggested it)
 - more coming soon!
 
-<a rel="me" href="https://mastodonapp.uk/@EranStockdale">Mastodon</a>
+<a rel="me" href="https://mastodonapp.uk/@EranStockdale" style="display: none;">Mastodon</a>
